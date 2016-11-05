@@ -6,7 +6,7 @@ angular
 .constant('$authconf', {           // default authentication configuration, never fill it in case the webui is hosted in public IP as it can be compromised
   host: 'localhost',
   path: '/jsonrpc',
-  port: 6800,
+  port: 6900,
   encrypt: false,
   auth: {                          // either add the token field or the user and pass field, not both.
   // token: '$YOUR_SECRET_TOKEN$'
