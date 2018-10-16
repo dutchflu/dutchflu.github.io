@@ -1,10 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
-
----
-
 Fred LU, junior Data Scientist at FDMG.
 
 ## Education
