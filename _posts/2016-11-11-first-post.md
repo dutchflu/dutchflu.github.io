@@ -2,6 +2,7 @@
 layout: post
 title: Testing Post
 excerpt: "Testing Post"
+header-style: text
 categories: [Test]
 tags: [test]
 comments: true
