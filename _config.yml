@@ -1,6 +1,6 @@
 # Site settings
-title: Flu Blog
-SEOTitle: 荷兰流感的博客 | Flu Blog
+title: JF Blog
+SEOTitle: Jenny & Fred 的博客 | JF Blog
 header-img: img/home_bg_sun.jpeg
 email: huxpro@gmail.com
 description: "Reading, Travelling and Thinking"
@@ -12,7 +12,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 future: true
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     516326782
 # zhihu_username:     huxpro
 github_username:    fredericklu
@@ -31,7 +31,7 @@ paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+#timezone: CN
 
 
 
@@ -68,7 +68,7 @@ netease_comment: false
 
 
 # # Analytics settings
-# # Baidu Analytics 
+# # Baidu Analytics
 # # ba_track_id: [your track id]
 
 # # Google Analytics
