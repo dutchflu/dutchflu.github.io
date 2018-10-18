@@ -9,7 +9,7 @@ Fred LU, Junior Data Scientist at FDMG.
 
 - **Programming Language** - `Python` / `Java` / `C` / `C++` 
 - **Speaking Language** - `Chinese` / `English` / `Wu Dialect` 
-- **Sports** - `Judo` / `Football` / `Basketball` / `Badminton` 
+- **Sports** -  `Ski` /`Judo` / `Football` / `Basketball` / `Badminton` 
 
 ## Contact me
 
