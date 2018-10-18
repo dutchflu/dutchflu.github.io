@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "简版甘肃攻略"
+author: "Fred"
 header-style: text
 excerpt: "Try click on the link icon."
 categories: [Travel]
