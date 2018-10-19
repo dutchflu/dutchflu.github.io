@@ -3,8 +3,8 @@ title: JF Blog
 SEOTitle: Jenny & Fred 的博客 | JF Blog
 header-img: img/home_bg_sun.jpeg
 email: huxpro@gmail.com
-description: "Reading, Travelling and Thinking"
-keyword: "dutchflu, blog, recommendation, reading, travelling, thinking"
+description: "Reading, Travelling, and Cooking"
+keyword: "blog, reading, travelling, cooking, thinking"
 url: "https://dutchflu.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -79,7 +79,7 @@ ga_domain: jfblog.fun
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Reading, Travelling and Thinking<br>行万里路，读万卷书"
+sidebar-about-description: "Reading, Travelling, Thinking and Cooking<br>行万里路，读万卷书, 尝万道菜"
 sidebar-avatar: /img/avatar-doodle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
