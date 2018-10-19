@@ -3,9 +3,8 @@ layout: post
 title: "简版甘肃攻略"
 author: "Fred"
 header-style: text
-excerpt: "Try click on the link icon."
-categories: [Travel]
-tags: [travel, link post]
+categories: [旅行]
+tags: [旅行, 笔记, 外部链接]
 link: http://www.mafengwo.cn/i/3075111.html
 share: true
 comments: true

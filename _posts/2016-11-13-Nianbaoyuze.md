@@ -3,9 +3,8 @@ layout: post
 header-style: text
 title: "马蜂窝-郎木寺与年保玉则的两点一线。"
 author: "Fred"
-excerpt: "Try click on the link icon."
-categories: [Travel]
-tags: [travel, link post, notes]
+categories: [旅行]
+tags: [旅行, 笔记, 外部链接]
 link: http://www.mafengwo.cn/i/5507267.html
 share: true
 image:
