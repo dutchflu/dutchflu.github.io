@@ -79,7 +79,7 @@ ga_domain: jfblog.fun
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Reading, Travelling, and Cooking<br>行万里路，读万卷书, 尝万道菜"
+sidebar-about-description: "Reading, Travelling, and Cooking<br>行万里路，读万卷书，尝万道菜"
 sidebar-avatar: /img/avatar-doodle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
