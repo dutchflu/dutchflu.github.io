@@ -16,8 +16,8 @@ description: "书读万卷，路行万里"
         {% endif %}
         <div class="post-content-preview">
             {% if post.excerpt %}
-                {{ post.content }}
-            {% eksif post.lang == 'en' %}
+                {{ post.excerpt }}
+            {% elsif post.lang == 'en' %}
                 {{ post.content | strip_html | truncate:200 }}
             {% else %}
                 {{ post.content | strip_html | truncate:100 }}
