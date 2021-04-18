@@ -1,16 +1,12 @@
-Fred LU, Junior Data Scientist at FDMG.
+陆万金
 
-## Education
+## 爱好
 
-- Master's degree of Computer Science (DST) from TU Delft.
-- Bachelor's degree of Computer Science from Lanzhou University.
+- **做饭**
+- **旅游**
+- **运动** 
 
-## Skills
+## 联系
 
-- **Programming Language** - `Python` / `Java` / `C` / `C++` 
-- **Speaking Language** - `Chinese` / `English` / `Wu Dialect` 
-- **Sports** -  `Ski` /`Judo` / `Football` / `Basketball` / `Badminton` 
+[dutchflu@gmail.com](mailto:dutchflu@gmail.com)
 
-## Contact me
-
-[fredlu@yeah.net](mailto:fredlu@yeah.net)
