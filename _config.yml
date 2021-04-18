@@ -1,10 +1,10 @@
 # Site settings
-title: JF Blog
-SEOTitle: Jenny & Fred 的博客 | JF Blog
+title: 万金 Blog
+SEOTitle: 万金 的博客 | Fred's Blog
 header-img: img/home_bg_sun.jpeg
-email: huxpro@gmail.com
+email: dutchflu@gmail.com
 description: "Reading, Travelling, and Cooking"
-keyword: "blog, reading, travelling, cooking, thinking"
+keyword: "blog, reading, travelling, tasting, thinking"
 url: "https://dutchflu.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -73,13 +73,13 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-127770771-1'            # Format: UA-xxxxxx-xx
-ga_domain: jfblog.fun
+ga_domain: https://dutchflu.github.io/
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Reading, Travelling, and Cooking<br>行万里路，读万卷书，尝万道菜"
+sidebar-about-description: "Travelling, Reading, and Tasting<br>行万里路，读万卷书，食万道肴"
 sidebar-avatar: /img/avatar-doodle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
