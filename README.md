@@ -1,3 +1,3 @@
-Jenny & Fred 的博客
+万金 的博客
 
-JF Blog is derived from  [Hux Blog](https://huangxuan.me/) ([github](https://github.com/huxpro/huxpro.github.io/)).
+万金 Blog is derived from  [Hux Blog](https://huangxuan.me/) ([github](https://github.com/huxpro/huxpro.github.io/)).
