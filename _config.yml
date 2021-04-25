@@ -21,7 +21,7 @@ github_username:    dutchflu
 #linkedin_username:  feng-lu-b025ab152
 instagram: dutchflu
 
-excerpt_separator: "<!-- more -->"
+excerpt_separator: ""
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
