@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "书读万卷，路行万里"
+description: "「书读万卷，路行万里」"
 ---
 
 {% for post in paginator.posts %}
@@ -15,12 +15,10 @@ description: "书读万卷，路行万里"
         </h3>
         {% endif %}
         <div class="post-content-preview">
-            {% if post.excerpt %}
-                {{ post.excerpt }}
-            {% elsif post.lang == 'en' %}
-                {{ post.content | strip_html | truncate:200 }}
+            {% if post.lang == 'en' %}
+                {{ post.content | strip_html | truncate:300 }}
             {% else %}
-                {{ post.content | strip_html | truncate:100 }}
+                {{ post.content | strip_html | truncate:200 }}
             {% endif %}
         </div>
     </a>

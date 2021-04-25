@@ -4,9 +4,8 @@ Fred LU, Data Scientist at bol.com.
 
 - **Cooking**
 - **Travelling**
-- **Sports** -  `Ski` /`Judo` / `Football` / `Basketball` / `Badminton` 
+- **Sports** -  `Ski` /`Judo` / `Football` / `Basketball` / `Badminton`
 
 ## Contact me
 
 [dutchflu@gmail.com](mailto:dutchflu@gmail.com)
-
