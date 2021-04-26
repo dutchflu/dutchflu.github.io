@@ -71,8 +71,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-127770771-1'           # Format: UA-xxxxxx-xx
-ga_domain: https://dutchflu.github.io/
+ga_track_id: UA-127770771-1        # Format: UA-xxxxxx-xx
+ga_domain: dutchflu.github.io/
 
 
 
