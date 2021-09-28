@@ -4,7 +4,7 @@ Fred LU, Data Scientist at bol.com.
 
 - **Cooking**
 - **Travelling**
-- **Sports** -  `Ski` /`Judo` / `Football` / `Basketball` / `Badminton`
+- **Sports** -  `Skiing` /`Hiking` /`Judo` / `Football` / `Basketball` / `Badminton`
 
 ## Contact me
 
