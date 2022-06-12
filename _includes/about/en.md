@@ -1,10 +1,10 @@
-Fred LU, Data Scientist at bol.com.
+Fred LU, Senior Data Scientist.
 
 ## Hobbies
 
 - **Cooking**
 - **Travelling**
-- **Sports** -  `Skiing` /`Hiking` /`Judo` / `Football` / `Basketball` / `Badminton`
+- **Sports** -  `Skiing` /`Hiking` /`Judo` / `Basketball` / `Badminton` / `Football`
 
 ## Contact me
 
