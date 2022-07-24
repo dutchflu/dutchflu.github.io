@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     516326782
+# weibo_username:     516326782
 # zhihu_username:     huxpro
-github_username:    dutchflu
+# github_username:    dutchflu
 # twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  feng-lu-b025ab152
